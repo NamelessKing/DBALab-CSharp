@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accademy.Umana.Tutorial.Application", "Accademy.Umana.Tutorial.Application\Accademy.Umana.Tutorial.Application.csproj", "{4A913EFE-9519-4432-A2CF-FFCF846A677F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accademy.Umana.Tutorial", "Accademy.Umana.Tutorial\Accademy.Umana.Tutorial.csproj", "{0E3CF0A9-4A28-4B51-9703-9D69CFBFDF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A913EFE-9519-4432-A2CF-FFCF846A677F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A913EFE-9519-4432-A2CF-FFCF846A677F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A913EFE-9519-4432-A2CF-FFCF846A677F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A913EFE-9519-4432-A2CF-FFCF846A677F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3CF0A9-4A28-4B51-9703-9D69CFBFDF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3CF0A9-4A28-4B51-9703-9D69CFBFDF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3CF0A9-4A28-4B51-9703-9D69CFBFDF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3CF0A9-4A28-4B51-9703-9D69CFBFDF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86383F3-B4E6-4B75-9BCE-A70EB5BBFEC4}
+	EndGlobalSection
+EndGlobal
